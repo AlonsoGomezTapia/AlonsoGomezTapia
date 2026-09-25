@@ -15,10 +15,10 @@
 
 ### Sobre mí
 
-- 🎓 Estudiante de **Programación y Análisis de Datos**
-- 💼 Actualmente trabajo como **Ejecutivo de Integraciones POS en Getnet**
-- 🔭 Trabajando con integraciones de sistemas de punto de venta (POS) y desarrollo full-stack
-- 🌱 Ampliando conocimientos en desarrollo web moderno y bases de datos
+-  Estudiante de **Programación y Análisis de Datos**
+-  Actualmente trabajo como **Ejecutivo de Integraciones POS en Getnet**
+-  Trabajando con integraciones de sistemas de punto de venta (POS) y desarrollo full-stack
+-  Ampliando conocimientos en desarrollo web moderno y bases de datos
 
 ---
 
@@ -40,10 +40,10 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/AlonsoGomezTapia/taller-zrpm-web">
+  <a href="https://github.com/AlonsoGomezTapia/zrpm-racing-engineWEB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoGomezTapia&repo=taller-zrpm-web&theme=dracula&hide_border=true" alt="Taller ZRPM Web"/>
   </a>
   <a href="https://github.com/AlonsoGomezTapia/finpulse">
@@ -51,7 +51,7 @@
   </a>
 </p>
 
->  Si el nombre de tus repos es distinto a `taller-zrpm-web` o `finpulse`, cambia el parámetro `repo=` en cada link por el nombre exacto del repositorio.
+
 
 ---
 
