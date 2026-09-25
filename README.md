@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, Soy Alonso Gómez
+Soy estudiante de Programación y análisis de datos.
 <!--
 **AlonsoGomezTapia/AlonsoGomezTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
